@@ -8,12 +8,12 @@ import 'swiper/css/effect-coverflow';
 import 'swiper/css/pagination';
 
 const galleryImages = [
-  { src: "C:\Users\abhis\Downloads\celebration\anniversary-site\IMAGES\IMG192.jpeg", caption: 'Together Forever 💑' },
-  { src: "C:\Users\abhis\Downloads\celebration\anniversary-site\IMAGES\IMG193.jpeg", caption: 'Love in the Air ✨' },
-  { src: "C:\Users\abhis\Downloads\celebration\anniversary-site\IMAGES\IMG194.jpeg", caption: 'Beautiful Moments 🌹' },
-  { src: "C:\Users\abhis\Downloads\celebration\anniversary-site\IMAGES\IMG195.jpeg", caption: 'Our Journey 💕' },
-  { src: "C:\Users\abhis\Downloads\celebration\anniversary-site\IMAGES\IMG196.jpeg", caption: 'Forever & Always ❤️' },
-  { src: 'https://images.unsplash.com/photo-1544476915-ed1370594142?w=600&q=80', caption: 'Sweet Memories 💖' },
+  { src: 'https://drive.google.com/file/d/129POyp0M58ILE_h5G7yVMSC2U2xXIOF4/view?usp=sharing', caption: 'Together Forever 💑' },
+  { src: 'https://drive.google.com/file/d/1EVIaOeTVJnnuYmfjIzcRhG3NNhS9CTVH/view?usp=sharing', caption: 'Love in the Air ✨' },
+  { src: 'https://drive.google.com/file/d/1Wu3eDArYMyvVf2i9O_auhgRmKZAjIVXM/view?usp=sharing', caption: 'Beautiful Moments 🌹' },
+  { src: 'https://drive.google.com/file/d/1pZw7NUQFPnjv3qoGOjYQFfjicTQ9OgED/view?usp=sharing', caption: 'Our Journey 💕' },
+  { src: 'https://drive.google.com/file/d/1YDBCcl4NNLZuZdr0yUD-6XwiyuGv0hdJ/view?usp=sharing', caption: 'Forever & Always ❤️' },
+  { src: 'https://drive.google.com/file/d/1EVIaOeTVJnnuYmfjIzcRhG3NNhS9CTVH/view?usp=sharing', caption: 'Sweet Memories 💖' },
 ];
 
 export default function Gallery() {
