@@ -8,11 +8,11 @@ import 'swiper/css/effect-coverflow';
 import 'swiper/css/pagination';
 
 const galleryImages = [
-  { src: 'https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80', caption: 'Together Forever 💑' },
-  { src: 'https://images.unsplash.com/photo-1522673607200-164d1b6ce486?w=600&q=80', caption: 'Love in the Air ✨' },
-  { src: 'https://images.unsplash.com/photo-1515023115689-589c33041d3c?w=600&q=80', caption: 'Beautiful Moments 🌹' },
-  { src: 'https://images.unsplash.com/photo-1455659817273-f96807779a8a?w=600&q=80', caption: 'Our Journey 💕' },
-  { src: 'https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80', caption: 'Forever & Always ❤️' },
+  { src: "C:\Users\abhis\Downloads\celebration\anniversary-site\IMAGES\IMG192.jpeg", caption: 'Together Forever 💑' },
+  { src: "C:\Users\abhis\Downloads\celebration\anniversary-site\IMAGES\IMG193.jpeg", caption: 'Love in the Air ✨' },
+  { src: "C:\Users\abhis\Downloads\celebration\anniversary-site\IMAGES\IMG194.jpeg", caption: 'Beautiful Moments 🌹' },
+  { src: "C:\Users\abhis\Downloads\celebration\anniversary-site\IMAGES\IMG195.jpeg", caption: 'Our Journey 💕' },
+  { src: "C:\Users\abhis\Downloads\celebration\anniversary-site\IMAGES\IMG196.jpeg", caption: 'Forever & Always ❤️' },
   { src: 'https://images.unsplash.com/photo-1544476915-ed1370594142?w=600&q=80', caption: 'Sweet Memories 💖' },
 ];
 
