@@ -25,7 +25,7 @@ export default function Gallery() {
         transition={{ duration: 0.8 }}
         className="text-3xl md:text-4xl font-bold mb-12 text-center bg-gradient-to-r from-pink-400 via-purple-400 to-pink-400 bg-clip-text text-transparent"
       >
-        Our Beautiful Journey 📸
+        Beautiful Journey 📸
       </motion.h2>
 
       <div className="w-full max-w-4xl">
