@@ -1,0 +1,13 @@
+{
+  "pages": {
+    "/_app": []
+  },
+  "devFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [
+    "static/NviMXu-cmgz4E7iiYMUtK/_buildManifest.js",
+    "static/NviMXu-cmgz4E7iiYMUtK/_ssgManifest.js",
+    "static/NviMXu-cmgz4E7iiYMUtK/_clientMiddlewareManifest.js"
+  ],
+  "rootMainFiles": []
+}
