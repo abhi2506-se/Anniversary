@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Playfair_Display, Dancing_Script } from "next/font/google";
+import Footer from "@/components/Footer";
 import "./globals.css";
 
 const playfair = Playfair_Display({
@@ -26,6 +27,7 @@ export default function RootLayout({
     <html lang="en" className="scroll-smooth">
       <body className={`${playfair.variable} ${dancing.variable} min-h-full flex flex-col antialiased`}>
         {children}
+        <Footer />
       </body>
     </html>
   );
