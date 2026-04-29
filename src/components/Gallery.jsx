@@ -8,12 +8,12 @@ import 'swiper/css/effect-coverflow';
 import 'swiper/css/pagination';
 
 const galleryImages = [
-  { src: 'https://drive.google.com/file/d/129POyp0M58ILE_h5G7yVMSC2U2xXIOF4/view?usp=sharing', caption: 'Together Forever 💑' },
-  { src: 'https://drive.google.com/file/d/1EVIaOeTVJnnuYmfjIzcRhG3NNhS9CTVH/view?usp=sharing', caption: 'Love in the Air ✨' },
-  { src: 'https://drive.google.com/file/d/1Wu3eDArYMyvVf2i9O_auhgRmKZAjIVXM/view?usp=sharing', caption: 'Beautiful Moments 🌹' },
-  { src: 'https://drive.google.com/file/d/1pZw7NUQFPnjv3qoGOjYQFfjicTQ9OgED/view?usp=sharing', caption: 'Our Journey 💕' },
-  { src: 'https://drive.google.com/file/d/1YDBCcl4NNLZuZdr0yUD-6XwiyuGv0hdJ/view?usp=sharing', caption: 'Forever & Always ❤️' },
-  { src: 'https://drive.google.com/file/d/1EVIaOeTVJnnuYmfjIzcRhG3NNhS9CTVH/view?usp=sharing', caption: 'Sweet Memories 💖' },
+  { src: 'blob:https://gemini.google.com/1b75e4e6-cd56-4b8a-8dea-f575c234ba16', caption: 'Together Forever 💑' },
+  { src: 'blob:https://gemini.google.com/0938a4a4-e10d-48ff-a0b2-5b2fca3da855', caption: 'Love in the Air ✨' },
+  { src: 'blob:https://gemini.google.com/a0727dcf-652b-4bfb-80dc-41efdf3080e1', caption: 'Beautiful Moments 🌹' },
+  { src: 'blob:https://gemini.google.com/a8e3c4a7-a902-4db7-9272-bfa68bebed4d', caption: 'Our Journey 💕' },
+  { src: 'blob:https://gemini.google.com/21938f74-42af-4941-950a-535c6a38e98e', caption: 'Forever & Always ❤️' },
+  { src: 'blob:https://gemini.google.com/0938a4a4-e10d-48ff-a0b2-5b2fca3da855', caption: 'Sweet Memories 💖' },
 ];
 
 export default function Gallery() {
