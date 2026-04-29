@@ -9,11 +9,11 @@ import 'swiper/css/pagination';
 
 const galleryImages = [
   { src: "/images/IMG192.jpeg", caption: 'Together Forever 💑' },
-  { src: 'blob:https://gemini.google.com/0938a4a4-e10d-48ff-a0b2-5b2fca3da855', caption: 'Love in the Air ✨' },
-  { src: 'blob:https://gemini.google.com/a0727dcf-652b-4bfb-80dc-41efdf3080e1', caption: 'Beautiful Moments 🌹' },
-  { src: 'blob:https://gemini.google.com/a8e3c4a7-a902-4db7-9272-bfa68bebed4d', caption: 'Our Journey 💕' },
-  { src: 'blob:https://gemini.google.com/21938f74-42af-4941-950a-535c6a38e98e', caption: 'Forever & Always ❤️' },
-  { src: 'blob:https://gemini.google.com/0938a4a4-e10d-48ff-a0b2-5b2fca3da855', caption: 'Sweet Memories 💖' },
+  { src: "/images/IMG193.jpeg", caption: 'Love in the Air ✨' },
+  { src: "/images/IMG194.jpeg", caption: 'Beautiful Moments 🌹' },
+  { src: "/images/IMG195.jpeg", caption: 'Our Journey 💕' },
+  { src: "/images/IMG196.jpeg", caption: 'Forever & Always ❤️' },
+  { src: "/images/IMG193.jpeg", caption: 'Sweet Memories 💖' },
 ];
 
 export default function Gallery() {
